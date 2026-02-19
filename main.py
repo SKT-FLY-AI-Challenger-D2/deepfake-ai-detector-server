@@ -9,7 +9,7 @@ from pydantic import BaseModel
 
 # --- 1. 초기 설정 및 모델 로드 ---
 BASE_MODEL_ID = "llava-hf/llava-1.5-7b-hf"
-ADAPTER_ID = "igeon510/llava-1.5-7b-qlora"
+ADAPTER_ID = "igeon510/llava-1.5-7b-youtube-qlora"
 
 print("Starting to load model... This may take a few minutes.")
 
