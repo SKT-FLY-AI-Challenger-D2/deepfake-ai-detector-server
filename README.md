@@ -1,6 +1,4 @@
-# deepfake-ai-detector-server
-
-deepfake-ai-detector-server
+# fake detection ai model server
 
 ```python
 # Huggingface
